@@ -1,0 +1,22 @@
+#blog{
+    color: rgb(205, 169, 103);
+}
+.icon{
+    position:static;
+    margin-left: 53%;
+}
+#com{
+    color: rgb(205, 169, 103);
+}
+
+#crd{
+    position: absolute;
+    margin: 100px;
+    margin-left: 1050px;
+    margin-top: -800px;
+}
+#id1{
+    position: absolute;
+    margin-left: 77%;
+    margin-top :-100px;
+}
